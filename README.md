@@ -1,4 +1,5 @@
 # Calculadora Javascript
+ <a href="https://romeoliveirasantos.github.io/calcJS/" target="_blank">Acesse o projeto</a>
 #### Projeto para praticar DOM - document object model com javascript e HTML + CSS
 **Funcionalidades:**
 1. Botão de troca de tema - Light | Dark
